@@ -9,11 +9,10 @@ This project provides a comprehensive analysis and machine learning approach to 
 ## Table of Contents
 
 - [Dataset Overview](#Dataset-Overview)
-- [Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23exploratory-data-analysis-eda)
-- [Machine Learning Models](https://www.google.com/search?q=%23machine-learning-models)
-- [Project Structure](https://www.google.com/search?q=%23project-structure)
-- [Dependencies](https://www.google.com/search?q=%23dependencies)
-- [Usage](https://www.google.com/search?q=%23usage)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Machine Learning Models](#machine-learning-models)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
 
 ---
 
