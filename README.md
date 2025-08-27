@@ -8,7 +8,7 @@ This project provides a comprehensive analysis and machine learning approach to 
 
 ## Table of Contents
 
-- [Dataset Overview](https://www.google.com/search?q=%23dataset-overview)
+- [Dataset Overview](#Dataset-Overview)
 - [Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23exploratory-data-analysis-eda)
 - [Machine Learning Models](https://www.google.com/search?q=%23machine-learning-models)
 - [Project Structure](https://www.google.com/search?q=%23project-structure)
